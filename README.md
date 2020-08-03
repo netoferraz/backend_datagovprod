@@ -1,4 +1,4 @@
-# Backend da api de predição de classificação de textos jurídicos.
+# Backend do projeto py-classifica-legal
 
 Esse repositório é parte do [post](https://netoferraz.github.io/o-eu-analitico/deep%20learning/nlp/data%20product/fastapi/docker/cloud/azure/2020/08/03/gov-data-product-p5.html) detalhando o deploy da solução.
 
