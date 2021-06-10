@@ -1,5 +1,5 @@
 fastai==1.0.61
-fastapi==0.60.1
+fastapi==0.65.2
 uvicorn
 sentencepiece==0.1.91
 scikit-learn==0.22.2
